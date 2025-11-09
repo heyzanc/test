@@ -10,3 +10,5 @@ async function test() {
 }
 
 test().then(console.log(test))
+
+console.log("wake fuckin up")
